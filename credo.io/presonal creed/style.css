@@ -1,0 +1,46 @@
+
+
+
+.contaner {
+
+    text-align: center;
+}
+
+.col-12{
+
+    text-align: center;
+}
+
+#box{
+
+    text-align: center;
+}
+
+.col-6{
+
+    text-align: center;
+}
+
+ 
+.contaner img
+{
+    
+    text-align: center;
+    margin-right: 1px;
+    height: 300px;
+    width: 300px;
+    margin-top: 10px;
+    
+}
+
+/* .contaner{
+    margin: 0;
+    padding: 0;
+    background-color: aquamarine;
+    background-image: linear-gradient(red,blue) 45deg;
+    background-image: var(--gradient);
+} */
+
+
+
+
